@@ -1,0 +1,44 @@
+Asunto: Solicitud de actualización: stock de garantías FOGAES y FOGAPE
+
+Hola [nombre],
+
+¿Cómo estás? Te escribo para pedirte una actualización de los archivos de garantías FOGAES y FOGAPE que nos enviaron anteriormente (corte abril 2024). Los usamos para proyectar los flujos de los fondos.
+
+Necesitamos 3 archivos en Excel, todos con la misma fecha de corte (idealmente el último cierre de mes disponible) y con los mismos nombres de columna que la versión anterior:
+
+1) FOGAES – Registro Stock Construcción
+2) FOGAPE – Stock de garantías (misma estructura que el de construcción)
+Columnas para ambos:
+- FEC_INF_MES
+- CRD_ORG_COD_ORI
+- CRD_TIP_MON
+- SDO_GTA_MON_ORI
+- SDO_GTA_MON_PES
+- FEC_CSE_FIN
+- PRIMER VENCIMIENTO PAGO
+- FRECUENCIA DE PAGO
+- FEC_VEN_FIN
+- FEC_VEN_GTA
+- EST_FOR_FIN_SAF
+- CLA_MOR_FIN
+
+3) FOGAES – Solicitudes Vivienda vigentes
+Columnas:
+- CTL_CSU_IDE_GAV
+- SOL_NUM_SOL_FIN
+- SOL_CRD_MNT_GAR_UF
+- SOL_EST_SOL_FTO
+- SOL_CRD_FEC_REG_SOL
+- SOL_CRD_FEC_VIG_SOL
+- SOL_CCG_CTU_CRV_ANU
+- SOL_ASV_NUM_ANU
+- SOL_FEC_REG_SOL_ANU
+
+Si les resulta más simple mandar los archivos completos, como la vez anterior, no hay problema.
+
+¿Me podrías indicar en qué plazo los podrían tener?
+
+Muchas gracias,
+
+Saludos,
+[tu nombre]
