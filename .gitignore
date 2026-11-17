@@ -1,0 +1,10 @@
+# Datos del banco: no publicar
+data/*
+!data/README.md
+output/
+
+__pycache__/
+*.pyc
+.venv/
+.pytest_cache/
+~$*.xlsx
